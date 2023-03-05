@@ -5,7 +5,7 @@
 ```swift
       dependencies: [
         .package(url: "https://github.com/Brightify/Cuckoo", from: "1.9.1"),
-        .package(url: "https://github.com/{organization}/CuckooPlugin", from: "1.0.0")
+        .package(url: "https://github.com/stephtelolahy/CuckooPlugin", from: "1.0.0")
     ],
 ```
 
